@@ -1,0 +1,8 @@
+node_modules/
+build/
+.hyperframes/
+assets/audio/
+assets/fonts/NotoColorEmoji.ttf
+__pycache__/
+out/work-*/
+out/.*
